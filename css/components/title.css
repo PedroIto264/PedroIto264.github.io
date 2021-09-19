@@ -1,0 +1,25 @@
+div{ 
+    display: inline-block;
+    font-family: 'Press Start 2P';
+    background: #3A4042;
+    padding: 32px 47px 44px 40px;
+    margin-top: 116px;
+    margin-left: 91px;
+    box-shadow: 10px 10px 0px black;
+}
+h1{
+    font-weight: normal;
+    font-size: 40px;
+    color: #BA1F33;
+    text-shadow: 4px 4px 0px black;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+h2{
+    display: inline-block;
+    font-weight: normal;
+    font-size: 30px;
+    color: #DDE2E5;
+    text-shadow: 4px 4px 0px black;
+    margin-top: 28px;
+}
