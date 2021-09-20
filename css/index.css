@@ -25,36 +25,3 @@ a::before{
     height: 10px;
     margin-right: 10px;
 }
-#button{
-    background-color:#BA1F33;
-    display: inline-block;
-    padding: 18px 20px;
-    color: #DDE2E5;
-    box-shadow: 5px 5px 0px black;
-    margin-right: 0px;
-}
-#button:hover{
-    background-color: #771925;
-    transform: scale(1.1);
-}
-#sub-bar{
-    text-align: left;
-    margin-left: 181px;
-    margin-top: 38px;
-}
-#button1{
-    background-color:#BA1F33;
-    display: inline-block;
-    padding: 18px 30px 18px 20px;
-    color: #DDE2E5;
-    box-shadow: 5px 5px 0px black;
-    margin-right: 112px;
-}
-#button2{
-    background-color:#BA1F33;
-    display: inline-block;
-    padding: 18px 27px 18px 20px;
-    color: #DDE2E5;
-    box-shadow: 5px 5px 0px black;
-    margin-right: 0px;
-}
